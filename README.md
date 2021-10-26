@@ -68,12 +68,12 @@ Output the color codes with '#' symbols on separate lines.
 #BED and #Cab satisfy the Hex Color Code criteria, but they are used as selectors and not as color codes in the given CSS.
 
 Hence, the valid color codes are:
-
+```
 #FfFdF8
 #aef
 #f9f9f9
 #fff
 #ABC
 #fff
-
+```
 **Note:** There are no comments ( // or /* */) in CSS Code.
