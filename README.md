@@ -8,7 +8,7 @@ Specifications of HEX Color Code
 ■ **A - F** letters can be lower case. (**a,b,c,d,e** and **f** are also valid digits).  
 
 **Examples**
-
+```
 Valid Hex Color Codes
 #FFF 
 #025 
@@ -18,7 +18,7 @@ Invalid Hex Color Codes
 #fffabg
 #abcf
 #12365erff
-
+```
 You are given **N** lines of CSS code. Your task is to print all valid Hex Color Codes, in order of their occurrence from top to bottom.  
 
 CSS Code Pattern  
